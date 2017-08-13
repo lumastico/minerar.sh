@@ -87,7 +87,7 @@ echo "$vermelhoClaro ---====== INICIANDO A MINERAÇÃO! =======---     \033[0m "
 echo "$vermelhoClaro ---======------------------------=======---     \033[0m "
 echo ""
 sleep 2
-echo "Obs: Assim que aparecer 'INICIANDO MINERAÇÃO', você ja pode fechar sua janela do terminal, que a mineração vai continuar..."
+echo "Obs: Assim que aparecer 'INICIANDO MINERAÇÃO', Aguarde 15 segundos e você ja pode fechar sua janela do terminal, que a mineração vai continuar..."
 sleep 1
 echo "$branco Agora você ja pode acessa o WEBSITE http://www.zpool.ca/?address=$wallet para acompanhar sua mineração! \033[0m"
 sleep 10
