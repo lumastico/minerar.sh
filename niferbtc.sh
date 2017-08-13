@@ -50,7 +50,7 @@ echo ""
 sleep 2
 echo "$branco  ======================================================================"
 echo "$amarelo     * Duvida? grupo de Skype$branco https://join.skype.com/zoQ7sHNSpooA "
-echo "$amarelo     * Esse script funciona somente no sistemas linux e debian"
+echo "$amarelo     * Esse script funciona somente no sistema Ubuntu linux"
 echo "$amarelo     * Nao venda esse script ou alugue!"
 echo "$amarelo     * SE NAO CONCORDAR COM O NOSSO TERMO, FECHE O SCRIPT AGORA!"
 echo "$amarelo     * Sua carteira $branco$wallet"
