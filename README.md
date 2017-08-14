@@ -1,6 +1,7 @@
 # minerar.sh
+
 SCRIPT MINERAÇÃO BITCOINS | NIFERBITCOINS
 
 DUVIDAS?
-
-https://join.skype.com/cYHttmk2sdpA
+Grupo do skype> https://join.skype.com/cYHttmk2sdpA
+Skype pessoal> lumastico1945
