@@ -1,8 +1,10 @@
 #!/bin/sh -e
 #AVISO! NÃO ALTERE O SCRIPT, PODE OCORRER ERRO NA MINERAÇAO!
+#CASO OCORRA ALGUM ERRO, ENTRE EM CONTATO O MAIS RAPIDO POSSIVEL.
 clear
 # DIREITOS RESERVADOS | GRUPO NIFERBITCOINS
 # SKYPE LUMASTICO1945
+#GRUPO SKYPE https://join.skype.com/cYHttmk2sdpA
  
 bash=$(echo $BASH)
  
@@ -87,7 +89,8 @@ echo "$vermelhoClaro ---====== INICIANDO A MINERAÇÃO! =======---     \033[0m "
 echo "$vermelhoClaro ---======------------------------=======---     \033[0m "
 echo ""
 sleep 2
-echo "Obs: Assim que aparecer 'INICIANDO MINERAÇÃO', Aguarde 15 segundos e você ja pode fechar sua janela do terminal, que a mineração vai continuar..."
+
+echo "$amarelo Obs: Assim que aparecer 'INICIANDO MINERAÇÃO', Aguarde 15 segundos e você ja pode fechar sua janela do terminal, que a mineração vai continuar... \033[0m"
 sleep 1
 echo "$branco Agora você ja pode acessa o WEBSITE http://www.zpool.ca/?address=$wallet para acompanhar sua mineração! \033[0m"
 sleep 10
