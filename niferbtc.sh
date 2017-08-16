@@ -94,5 +94,4 @@ echo "$amarelo Obs: Assim que aparecer 'INICIANDO MINERAÇÃO', Aguarde 15 segun
 sleep 1
 echo "$branco Agora você ja pode acessa o WEBSITE http://www.zpool.ca/?address=$wallet para acompanhar sua mineração! \033[0m"
 sleep 10
-./yescrypt.sh start
 screen ./minerd -o stratum+tcp://yescrypt.mine.zpool.ca:6233 -u $wallet
